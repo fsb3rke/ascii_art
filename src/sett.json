@@ -1,0 +1,10 @@
+{
+    "ConvertSett": {
+        "firstReq": "python grayscale.py",
+        "secondReq": "python ascii_converter.py"
+    },
+
+    "photo": "proxy-image.png",
+    "grayscale_photo_OUTPUT": "proxy-image_GRAYSCALED.png",
+    "ascii_photo_OUTPUT": "proxy-image_ASCII.txt"
+}
